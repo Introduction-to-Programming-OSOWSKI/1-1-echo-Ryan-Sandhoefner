@@ -1,3 +1,3 @@
 #define function echo
-def echo(a,b):
-    print (a * b)
+def echo(hello,B):
+    print (hello * B)
